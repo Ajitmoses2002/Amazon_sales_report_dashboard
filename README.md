@@ -67,7 +67,8 @@ Amazon-Sales-Analytics/
 ```
 
 ## Screenshot
-Add a screenshot of the final dashboard here.
+<img width="1517" height="817" alt="Dashboard_pic_01" src="https://github.com/user-attachments/assets/a4d5abee-a9ec-40dc-a3da-6c298132cdce" />
+
 
 ## How to Use
 1. Open the `.pbix` file in Power BI Desktop.
